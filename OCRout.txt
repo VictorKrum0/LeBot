@@ -1,0 +1,5 @@
+Sagesse : 14
+Critique : 3
+Dommage Neutre : 5
+Dommage Terre : 5
+Dommage Eau : 5
